@@ -44,7 +44,7 @@ The fastest way to get started is to download the latest `anylist-mcp.mcpb` from
 ### Setup
 
 ```bash
-git clone --recurse-submodules https://github.com/bobby060/anylist-mcp.git
+git clone https://github.com/bobby060/anylist-mcp.git
 cd anylist-mcp
 npm install
 ```
@@ -80,7 +80,7 @@ See **[docs/cloudflare-setup.md](docs/cloudflare-setup.md)** for the full setup 
 **Quick start:**
 
 ```bash
-git clone --recurse-submodules https://github.com/bobby060/anylist-mcp.git
+git clone https://github.com/bobby060/anylist-mcp.git
 cd anylist-mcp
 
 # Configure
